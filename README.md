@@ -2,3 +2,6 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pat-on&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Pat-On)](https://github.com/anuraghazra/github-readme-stats)
