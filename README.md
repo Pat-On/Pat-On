@@ -7,3 +7,5 @@
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@On)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://wakatime.com"><img style="width:50%;" src="https://wakatime.com/share/@On/e31d3b8a-fa8f-4a76-9a02-88503bec3aa9.png" /></a>
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@On/657977a2-1896-489e-86c1-26dc1aaa9e06.png" /></a>
