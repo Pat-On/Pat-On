@@ -1,1 +1,3 @@
 # PatrykNowak
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pat-on)](https://github.com/anuraghazra/github-readme-stats)
