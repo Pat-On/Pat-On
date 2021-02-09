@@ -3,10 +3,10 @@
 
 <h2 align="center">Programmers are made, not born!</h2>
 
-<a href="https://wakatime.com"><img width="50%" height="50%" src="https://wakatime.com/share/@paton/cf96e0e1-daea-4d22-8b35-441b337066fa.png" /></a>
+<a href="https://wakatime.com"><img  align="center" width="50%" height="50%" src="https://wakatime.com/share/@paton/cf96e0e1-daea-4d22-8b35-441b337066fa.png" /></a>
 
 <h3 align="center"> More about me:</h3>
-<a href="https://www.linkedin.com/in/patryknowak1990/"><img width="50%" height="50%" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1612875196~hmac=af345d7896b6ff96244ddced4dc4984c" /></a>
+<a href="https://www.linkedin.com/in/patryknowak1990/"><img  align="center" width="10%" height="10%" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1612875196~hmac=af345d7896b6ff96244ddced4dc4984c" /></a>
 
 
 
