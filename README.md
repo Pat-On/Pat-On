@@ -1,6 +1,6 @@
 <h1 align="center">README IN CONSTRUCTION!</h1>
 <p align="center">
-<img width="10%" height="10%" src="https://image.freepik.com/free-vector/flat-construction-template_23-2147747125.jpg" /></a>
+<img width="15%" height="15%" src="https://image.freepik.com/free-vector/flat-construction-template_23-2147747125.jpg" /></a>
 </p>
 
 <h2 align="center">Programmers are made, not born!</h2>
@@ -15,5 +15,7 @@
 
 <p align="center">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pat-on&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pat-on&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </p>
+
+[![Top Langs align="center"](https://github-readme-stats.vercel.app/api/top-langs/?username=pat-on&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
