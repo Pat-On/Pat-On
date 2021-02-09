@@ -18,6 +18,3 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/patryknowak1990/"><img width="5%" height="5%" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1612875196~hmac=af345d7896b6ff96244ddced4dc4984c" /></a>
 </p>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
