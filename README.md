@@ -1,10 +1,8 @@
 <h1 align="center">README IN CONSTRUCTION!</h1>
 
-<h2> align="center">Programmers are made, not born!</h2>
+<h2 align="center">Programmers are made, not born!</h2>
 
-**#Programmers are made, not born!**
-
-<a href="https://wakatime.com"><img width="20%" height="20%" src="https://wakatime.com/share/@paton/cf96e0e1-daea-4d22-8b35-441b337066fa.png" /></a>
+<a href="https://wakatime.com"><img width="50%" height="50%" src="https://wakatime.com/share/@paton/cf96e0e1-daea-4d22-8b35-441b337066fa.png" /></a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pat-on&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
