@@ -20,3 +20,7 @@
 </p>
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@paton/ee99d42c-0625-479d-9e99-a7f5af6b4783)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
