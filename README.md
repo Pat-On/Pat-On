@@ -4,6 +4,13 @@
 </p>
 
 <h2 align="center">Programmers are made, not born!</h2>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pat-on&layout=compact" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pat-on&count_private=true&show_icons=true" /> 
+</a>
+
 <p align="center">
 <a href="https://wakatime.com"><img width="50%" height="50%" src="https://wakatime.com/share/@paton/cf96e0e1-daea-4d22-8b35-441b337066fa.png" /></a>
 </p>
@@ -12,16 +19,3 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/patryknowak1990/"><img width="10%" height="10%" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1612875196~hmac=af345d7896b6ff96244ddced4dc4984c" /></a>
 </p>
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pat-on&count_private=true&show_icons=true" /> 
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pat-on&layout=compact" />
-</a>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pat-on&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pat-on&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
