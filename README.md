@@ -4,12 +4,15 @@
 </p>
 
 <h2 align="center">Programmers are made, not born!</h2>
+
+<p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pat-on&layout=compact" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pat-on&count_private=true&show_icons=true" /> 
 </a>
+</p>
 
 <p align="center">
 <a href="https://wakatime.com"><img width="50%" height="50%" src="https://wakatime.com/share/@paton/cf96e0e1-daea-4d22-8b35-441b337066fa.png" /></a>
