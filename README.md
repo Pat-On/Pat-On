@@ -1,6 +1,6 @@
-#README IN CONSTRUCTION!
+<h1 align="center">README IN CONSTRUCTION!</h1>
 
-#Programmers are made, not born!
+**#Programmers are made, not born!**
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@paton/cf96e0e1-daea-4d22-8b35-441b337066fa.png" /></a>
 
