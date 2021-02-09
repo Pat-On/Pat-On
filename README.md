@@ -13,9 +13,9 @@
 <a href="https://www.linkedin.com/in/patryknowak1990/"><img width="10%" height="10%" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1612875196~hmac=af345d7896b6ff96244ddced4dc4984c" /></a>
 </p>
 
-<p align="center">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pat-on&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-</p>
 
-[![Top Langs align="center"](https://github-readme-stats.vercel.app/api/top-langs/?username=pat-on&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pat-on&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pat-on&layout=compact)](https://github.com/anuraghazra/github-readme-stats) align="center"
 
