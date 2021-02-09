@@ -14,11 +14,7 @@
 </a>
 </p>
 
-<p align="center">
-<a href="https://wakatime.com"><img width="65%" height="65%" src="https://wakatime.com/share/@paton/cf96e0e1-daea-4d22-8b35-441b337066fa.png" /></a>
-</p>
-
 <h3 align="center"> More about me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/patryknowak1990/"><img width="10%" height="10%" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1612875196~hmac=af345d7896b6ff96244ddced4dc4984c" /></a>
+<a href="https://www.linkedin.com/in/patryknowak1990/"><img width="5%" height="5%" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1612875196~hmac=af345d7896b6ff96244ddced4dc4984c" /></a>
 </p>
