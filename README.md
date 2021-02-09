@@ -6,8 +6,9 @@
 <a align="center" href="https://wakatime.com"><img   width="50%" height="50%" src="https://wakatime.com/share/@paton/cf96e0e1-daea-4d22-8b35-441b337066fa.png" /></a>
 
 <h3 align="center"> More about me:</h3>
+<p align="center">
 <a align="center" href="https://www.linkedin.com/in/patryknowak1990/"><img  align="center" width="10%" height="10%" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1612875196~hmac=af345d7896b6ff96244ddced4dc4984c" /></a>
-
+</p>
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pat-on&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
