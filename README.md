@@ -19,4 +19,4 @@
 <a href="https://www.linkedin.com/in/patryknowak1990/"><img width="5%" height="5%" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1612875196~hmac=af345d7896b6ff96244ddced4dc4984c" /></a>
 </p>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=paton/ee99d42c-0625-479d-9e99-a7f5af6b4783)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@paton/ee99d42c-0625-479d-9e99-a7f5af6b4783)](https://github.com/anuraghazra/github-readme-stats)
