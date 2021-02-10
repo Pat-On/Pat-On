@@ -20,5 +20,5 @@
 </p>
 
 <p align="center">
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@paton/e6c964e6-6eb5-436b-92da-97e39b671835.png" /></a>
+<a href="https://wakatime.com"><img width="75%" height="75%"src="https://wakatime.com/share/@paton/e6c964e6-6eb5-436b-92da-97e39b671835.png" /></a>
 </p>
