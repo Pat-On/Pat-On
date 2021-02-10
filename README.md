@@ -19,4 +19,5 @@
 <a href="https://www.linkedin.com/in/patryknowak1990/"><img width="5%" height="5%" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1612875196~hmac=af345d7896b6ff96244ddced4dc4984c" /></a>
 </p>
 
-<figure><embed src="https://wakatime.com/share/@paton/5af2e7f1-a660-4592-a03d-b4b3c9df23e5.svg"></embed></figure>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@paton/e6c964e6-6eb5-436b-92da-97e39b671835.png" /></a>
+
