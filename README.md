@@ -18,15 +18,16 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pat-on&count_private=true&show_icons=true" /> 
 </a>
 </p>
-
-<p align="center">
-<a href="https://wakatime.com"><img width="75%" height="75%"src="https://wakatime.com/share/@paton/e6c964e6-6eb5-436b-92da-97e39b671835.png" /></a>
-</p>
-
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="90%" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=paton" />
 </a>
 </p>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=paton)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+<a href="https://wakatime.com"><img width="65%" height="65%"src="https://wakatime.com/share/@paton/e6c964e6-6eb5-436b-92da-97e39b671835.png" /></a>
+</p>
+
+
+
+
