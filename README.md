@@ -1,6 +1,6 @@
 <h3 align="center"> More about me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/patryknowak1990/"><img width="5%" height="5%" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1612875196~hmac=af345d7896b6ff96244ddced4dc4984c" /></a>
+<a href="https://www.linkedin.com/in/patryknowak1990/"><img width="5%" height="5%" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" /></a>
 </p>
 
 <h1 align="center">README IN CONSTRUCTION!</h1>
