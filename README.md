@@ -29,6 +29,26 @@
 <a href="https://wakatime.com"><img width="50%" height="50%"src="https://wakatime.com/share/@paton/e6c964e6-6eb5-436b-92da-97e39b671835.png" /></a>
 </p>
 
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="90%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cc1ebb23-5ce3-4b2e-af0d-345830e15d02&layout=compact" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="cc1ebb23-5ce3-4b2e-af0d-345830e15d02" />
+</a>
 
+
+
+
+
+4:01
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="90%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=9d56e826-eb14-4ed9-b737-a42ea1a8f445&layout=compact" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="9d56e826-eb14-4ed9-b737-a42ea1a8f445" />
+</a>
+</p>
 
 
