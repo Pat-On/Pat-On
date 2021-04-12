@@ -29,7 +29,5 @@
 </p>
 
 
-<figure><embed src="https://wakatime.com/share/@paton/8733cb02-5af2-40b4-97e2-211710570ef6.png"></embed></figure>
-
 
 
