@@ -28,12 +28,8 @@
 <a href="https://wakatime.com"><img width="50%" height="50%"src="https://wakatime.com/share/@paton/e6c964e6-6eb5-436b-92da-97e39b671835.png" /></a>
 </p>
 
-<p align="center">
-<a href="https://wakatime.com"><img width="50%" height="50%"src="https://wakatime.com/share/@cc1ebb23-5ce3-4b2e-af0d-345830e15d02/e6c964e6-6eb5-436b-92da-97e39b671835.png" /></a>
-</p>
 
-<p align="center">
-<a href="https://wakatime.com"><img width="50%" height="50%"src="https://wakatime.com/share/@9d56e826-eb14-4ed9-b737-a42ea1a8f445/e6c964e6-6eb5-436b-92da-97e39b671835.png" /></a>
-</p>
+<figure><embed src="https://wakatime.com/share/@paton/8733cb02-5af2-40b4-97e2-211710570ef6.svg"></embed></figure>
+
 
 
