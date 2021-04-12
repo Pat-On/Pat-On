@@ -26,12 +26,6 @@
 
 
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="90%" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=9d56e826-eb14-4ed9-b737-a42ea1a8f445" />
-</a>
-</p>
-
-<p align="center">
 <a href="https://wakatime.com"><img width="50%" height="50%"src="https://wakatime.com/share/@paton/e6c964e6-6eb5-436b-92da-97e39b671835.png" /></a>
 </p>
 
