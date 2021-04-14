@@ -46,7 +46,7 @@
         <img height="90%" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=paton" />
       </a>
     </div>
-
+  </div>
   
 <div width="45%"  align="left">
     <div width="45%" align="right">
@@ -54,8 +54,9 @@
         <img width="45%" height="45%"src="https://wakatime.com/share/@paton/e6c964e6-6eb5-436b-92da-97e39b671835.png" />
       </a>
     </div>
-
 </div>
+
+
 </div>
   
   
