@@ -1,7 +1,7 @@
-<h2> Welcome Traveler, I'm Patryk! <img src="https://media.giphy.com/media/Q5G7H7HR1aaMb0wQr5/giphy.gif" width="50"></h2>
-<h3> Please sit here next to fire <img src="https://media.giphy.com/media/26BRtXIsv1ModKrE4/giphy.gif" width="50"> and let me to tell You story! <img src="https://media.giphy.com/media/mF4gHR7CsyAB5QWpzz/giphy.gif" width="50"> </h3>
+<h2 align="center"> Welcome Traveler, I'm Patryk! <img src="https://media.giphy.com/media/Q5G7H7HR1aaMb0wQr5/giphy.gif" width="50"></h2>
+<h3 align="center"> Please sit here next to fire <img src="https://media.giphy.com/media/26BRtXIsv1ModKrE4/giphy.gif" width="50"> and let me to tell You story! <img src="https://media.giphy.com/media/mF4gHR7CsyAB5QWpzz/giphy.gif" width="50"> </h3>
 
-<p> Long time ago was born the Web Developer, who came to IT World from the Academic World <img src="https://media.giphy.com/media/26BRtXIsv1ModKrE4/giphy.gif" width="50"> <br/>
+<p align="center"> Long time ago was born the Web Developer, who came to IT World from the Academic World <img src="https://media.giphy.com/media/26BRtXIsv1ModKrE4/giphy.gif" width="50"> <br/>
   Academic World was totaly different, like  different universe... <img src="https://media.giphy.com/media/XzppzumMgYj7uqEUqK/giphy.gif" width="50"> <br/>
   but powerful skills possesed in different Universum gave him chance to become great developer<img src="https://media.giphy.com/media/l4pT7MSfRKJQ8vj5S/giphy.gif" width="50"> <br/>
   but it was only beggining..... <img src="https://media.giphy.com/media/XPW7IWe1Sh1vUInEaU/giphy.gif" width="70"></p>
