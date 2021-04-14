@@ -40,13 +40,13 @@
 </p>
 
 <div width="100%">
-  <div width="45%"  align="left">
+  <div width="45%"  align="left" display="block">
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img height="90%" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=paton" />
       </a>
   </div>
   
-<div width="45%"  align="left">
+<div width="45%"  align="left" display="block">
       <a href="https://wakatime.com">
         <img width="45%" height="45%"src="https://wakatime.com/share/@paton/e6c964e6-6eb5-436b-92da-97e39b671835.png" />
       </a>
