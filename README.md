@@ -27,6 +27,8 @@
 </p>
 
 <h2 align="center">Programmers are made, not born!</h2>
+<br/>
+<h3 align="center">Some statistics</h3>
 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
