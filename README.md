@@ -18,7 +18,7 @@
 <p align="center">
 <img width="15%" height="15%" src="https://image.freepik.com/free-vector/flat-construction-template_23-2147747125.jpg" /></a>
 </p>--> 
-
+<br/>
 <!-- LeetCode--> 
 <div align="center"><p>  From 14 April 21 I started practising <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> problem solving on LeetCode platform: </p>  </div>
 
