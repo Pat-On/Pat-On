@@ -4,7 +4,7 @@
 <p> Long time ago was born the Web Developer, who came to IT World from the Academic World <img src="https://media.giphy.com/media/26BRtXIsv1ModKrE4/giphy.gif" width="50"> <br/>
   Academic World was totaly different, like  different universe... <img src="https://media.giphy.com/media/XzppzumMgYj7uqEUqK/giphy.gif" width="50"> <br/>
   but powerful skills possesed in different Universum gave him chance to become great developer<img src="https://media.giphy.com/media/l4pT7MSfRKJQ8vj5S/giphy.gif" width="50"> <br/>
-  but it was only beggining..... <img src="https://media.giphy.com/media/rr9LmzR68Ig1YXdgXU/giphy.gif" width="70"></p>
+  but it was only beggining..... <img src="https://media.giphy.com/media/UZbwoZXRQGzrI5Tm9P/giphy.gif" width="70"></p>
   
 
 <h3 align="center"> More about me:</h3>
