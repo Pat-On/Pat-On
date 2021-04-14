@@ -49,7 +49,7 @@
   </div>
   
   <div width="45%" >
-<div> width="45%" align="center">
+<div width="45%" align="center">
 <a href="https://wakatime.com"><img width="45%" height="45%"src="https://wakatime.com/share/@paton/e6c964e6-6eb5-436b-92da-97e39b671835.png" /></a>
 </div>
 </div>
