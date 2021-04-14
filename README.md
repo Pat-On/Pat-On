@@ -10,6 +10,7 @@
 </p>
 
 <!-- LeetCode--> 
+<p align="center">From 14 April I started practising problem solving on LeetCode platform"</p>
 <p align="center">
 <a href="https://leetcode.com/Pat-On/"><img width="5%" height="5%" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" /></a>
 </p>
