@@ -1,5 +1,5 @@
 <h2> Welcome Traveler, I'm Patryk! <img src="https://media.giphy.com/media/Q5G7H7HR1aaMb0wQr5/giphy.gif" width="50"></h2>
-<h2> Please sit here next to fire <img src="https://media.giphy.com/media/26BRtXIsv1ModKrE4/giphy.gif" width="50"> and let me tell story! <img src="https://media.giphy.com/media/mF4gHR7CsyAB5QWpzz/giphy.gif" width="50"> </h2>
+<h3> Please sit here next to fire <img src="https://media.giphy.com/media/26BRtXIsv1ModKrE4/giphy.gif" width="50"> and let me tell story! <img src="https://media.giphy.com/media/mF4gHR7CsyAB5QWpzz/giphy.gif" width="50"> </h3>
 
 <h3 align="center"> More about me:</h3>
 <p align="center">
