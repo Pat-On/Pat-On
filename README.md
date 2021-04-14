@@ -15,7 +15,9 @@
 <br/>
 
 <h3 align="center"> Currently: </h3>
-<img align="center" width="50%" src="https://media.giphy.com/media/h2NRnIIEw6tv9emZSc/giphy.gif" width="50%"> 
+<div align="center">
+<img align="center" width="50%" src="https://media.giphy.com/media/h2NRnIIEw6tv9emZSc/giphy.gif"> 
+  </div>
 <br/>
 
 <h3 align="center"> Find out more about <img src="https://media.giphy.com/media/fZ83aZhAhTfIMErtCm/giphy.gif" width="80"> and my <img src="https://media.giphy.com/media/qPTyrrtmmjbjZtmSJG/giphy.gif" width="80">:</h3>
