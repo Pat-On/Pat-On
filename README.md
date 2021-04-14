@@ -5,9 +5,10 @@
   Academic World was totaly different, like  different universe... <img src="https://media.giphy.com/media/XzppzumMgYj7uqEUqK/giphy.gif" width="50"> <br/>
   but powerful skills possesed in different Universum gave him chance to become great developer<img src="https://media.giphy.com/media/l4pT7MSfRKJQ8vj5S/giphy.gif" width="50"> <br/>
   but it was only beggining..... <img src="https://media.giphy.com/media/gZ7UviOcFVVNBR2JlO/giphy.gif" width="70"></p>
-  
 
-<h3 align="center"> More about me:</h3>
+<br/>
+
+<h3 align="center"> Find out more about me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/patryknowak1990/"><img width="5%" height="5%" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" /></a>
 </p>
