@@ -41,30 +41,22 @@
 
 <div>
   <div width="45%" >
-<p width="45%"  align="center">
+<div width="45%"  align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="90%" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=paton" />
 </a>
-</p>
+</div>
   </div>
   
   <div width="45%" >
-<p width="45%" align="center">
+<div> width="45%" align="center">
 <a href="https://wakatime.com"><img width="45%" height="45%"src="https://wakatime.com/share/@paton/e6c964e6-6eb5-436b-92da-97e39b671835.png" /></a>
-</p>
+</div>
 </div>
 </div>
   
   
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-![]<p width="45%" align="center">
-<a href="https://wakatime.com"><img width="45%" height="45%"src="https://wakatime.com/share/@paton/e6c964e6-6eb5-436b-92da-97e39b671835.png" /></a>
-</p>|  ![]<p width="45%"  align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="90%" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=paton" />
-</a>
-</p>
+
   
 
 
