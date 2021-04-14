@@ -14,7 +14,7 @@
 
 <br/>
 
-<h3 align="center"> Find out more about <b>me</b> and <b>my skills</b><img src="https://media.giphy.com/media/qPTyrrtmmjbjZtmSJG/giphy.gif" width="60">:</h3>
+<h3 align="center"> Find out more about <b>me</b> and <b>my </b><img src="https://media.giphy.com/media/qPTyrrtmmjbjZtmSJG/giphy.gif" width="60">:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/patryknowak1990/">
     <img width="5%" height="5%" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />
