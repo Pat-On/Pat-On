@@ -9,7 +9,7 @@
 <p align="center"> Long time ago was born a <b>Web Developer</b>, who came to IT World from the Academic World <img src="https://media.giphy.com/media/1etn2BmiW0nOgoZHTL/giphy.gif" width="50"> <br/>
   Academic World was totaly different, like  different universe... <img src="https://media.giphy.com/media/XzppzumMgYj7uqEUqK/giphy.gif" width="50"> <br/>
   but <b>powerful skills</b>, possesed in different Universe gave him the chance, to become a great developer<img src="https://media.giphy.com/media/l4pT7MSfRKJQ8vj5S/giphy.gif" width="50"> <br/>
-  but it was only the beggining... <img src="https://media.giphy.com/media/gZ7UviOcFVVNBR2JlO/giphy.gif" width="70">
+  but it was only the begining... <img src="https://media.giphy.com/media/gZ7UviOcFVVNBR2JlO/giphy.gif" width="70">
 </p>
 
 <br/>
