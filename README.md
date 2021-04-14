@@ -1,6 +1,6 @@
-<h2 align="center"> Welcome Traveler, I'm Patryk! 
+<h1 align="center"> Welcome Traveler, I'm Patryk! 
   <img src="https://media.giphy.com/media/Q5G7H7HR1aaMb0wQr5/giphy.gif" width="50">
-</h2>
+</h1>
 
 <h3 align="center"> Please sit here, next to the fire <img src="https://media.giphy.com/media/26BRtXIsv1ModKrE4/giphy.gif" width="50"> and let me tell You a story! 
   <img src="https://media.giphy.com/media/mF4gHR7CsyAB5QWpzz/giphy.gif" width="50">
