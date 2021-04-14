@@ -7,10 +7,10 @@
 </p>
 
 <!-- In Construction--> 
-<h1 align="center">README IN CONSTRUCTION!</h1>
+<!-- <h1 align="center">README IN CONSTRUCTION!</h1>
 <p align="center">
 <img width="15%" height="15%" src="https://image.freepik.com/free-vector/flat-construction-template_23-2147747125.jpg" /></a>
-</p>
+</p>--> 
 
 <!-- LeetCode--> 
 <div align="center"><p> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> From 14 April I started practising problem solving on LeetCode platform:</p>  </div>
