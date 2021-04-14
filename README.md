@@ -1,10 +1,10 @@
 <h2 align="center"> Welcome Traveler, I'm Patryk! <img src="https://media.giphy.com/media/Q5G7H7HR1aaMb0wQr5/giphy.gif" width="50"></h2>
-<h3 align="center"> Please sit here next to fire <img src="https://media.giphy.com/media/26BRtXIsv1ModKrE4/giphy.gif" width="50"> and let me to tell You story! <img src="https://media.giphy.com/media/mF4gHR7CsyAB5QWpzz/giphy.gif" width="50"> </h3>
+<h3 align="center"> Please sit here, next to the fire <img src="https://media.giphy.com/media/26BRtXIsv1ModKrE4/giphy.gif" width="50"> and let me tell You a story! <img src="https://media.giphy.com/media/mF4gHR7CsyAB5QWpzz/giphy.gif" width="50"> </h3>
 
-<p align="center"> Long time ago was born the Web Developer, who came to IT World from the Academic World <img src="https://media.giphy.com/media/26BRtXIsv1ModKrE4/giphy.gif" width="50"> <br/>
+<p align="center"> Long time ago was born a Web Developer, who came to IT World from the Academic World <img src="https://media.giphy.com/media/26BRtXIsv1ModKrE4/giphy.gif" width="50"> <br/>
   Academic World was totaly different, like  different universe... <img src="https://media.giphy.com/media/XzppzumMgYj7uqEUqK/giphy.gif" width="50"> <br/>
-  but powerful skills possesed in different Universum gave him chance to become great developer<img src="https://media.giphy.com/media/l4pT7MSfRKJQ8vj5S/giphy.gif" width="50"> <br/>
-  but it was only beggining..... <img src="https://media.giphy.com/media/gZ7UviOcFVVNBR2JlO/giphy.gif" width="70"></p>
+  but powerful skills possesed in different Universe gave him the chance to become a great developer<img src="https://media.giphy.com/media/l4pT7MSfRKJQ8vj5S/giphy.gif" width="50"> <br/>
+  but it was only the beggining..... <img src="https://media.giphy.com/media/gZ7UviOcFVVNBR2JlO/giphy.gif" width="70"></p>
 
 <br/>
 
@@ -20,7 +20,7 @@
 </p>--> 
 
 <!-- LeetCode--> 
-<div align="center"><p> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> From 14 April I started practising problem solving on LeetCode platform:</p>  </div>
+<div align="center"><p> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> From 14 April 21 I started practising problem solving on LeetCode platform:</p>  </div>
 
 <p align="center">
 <a href="https://leetcode.com/Pat-On/"><img width="5%" height="5%" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" /></a>
