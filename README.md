@@ -16,7 +16,7 @@
 
 <h2 align="center"> Currently: </h2>
 <div align="center">
-<img align="center" width="50%" src="https://media.giphy.com/media/h2NRnIIEw6tv9emZSc/giphy.gif"> 
+<!-- <img align="center" width="50%" src="https://media.giphy.com/media/h2NRnIIEw6tv9emZSc/giphy.gif">  -->
   </div>
 <br/>
 
