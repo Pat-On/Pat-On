@@ -55,7 +55,7 @@
 <br/>
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-     <img height="45%" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=paton" />
+     <img height="45%" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=paton&layout=compact" />
   </a>
     
   <a href="https://wakatime.com">
