@@ -58,9 +58,9 @@
      <img height="45%" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=paton&layout=compact" />
   </a>
     
-  <a href="https://wakatime.com">
+<!--   <a href="https://wakatime.com">
      <img width="45%" align="center" src="https://wakatime.com/share/@paton/e6c964e6-6eb5-436b-92da-97e39b671835.png" />
-  </a>
+  </a> -->
 </div>
   
 
