@@ -45,17 +45,18 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="90%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pat-on&layout=compact" />
+    <img height="90%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pat-on&layout=compact&theme=tokyonight)
+" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=pat-on&count_private=true&show_icons=true" /> 
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=pat-on&count_private=true&show_icons=true&theme=tokyonight" /> 
   </a>
 </p>
 
 <br/>
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-     <img height="45%" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=paton&layout=compact" />
+     <img height="45%" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=paton&layout=compact&theme=tokyonight" />
   </a>
     
 <!--   <a href="https://wakatime.com">
