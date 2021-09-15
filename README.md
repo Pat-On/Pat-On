@@ -31,13 +31,13 @@
 
 <br/>
 <!-- LeetCode--> 
-<div align="center"><p>  From 14 April 21 I started practising <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> problem solving on LeetCode platform: </p>  </div>
+<!-- <div align="center"><p>  From 14 April 21 I started practising <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> problem solving on LeetCode platform: </p>  </div>
 
 <p align="center">
   <a href="https://leetcode.com/Pat-On/">
     <img width="5%" height="5%" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" />
   </a>
-</p>
+</p> -->
 
 <h2 align="center">Programmers are made, not born!</h2>
 <br/>
