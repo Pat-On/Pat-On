@@ -42,7 +42,7 @@
 <h2 align="center">Programmers are made, not born!</h2>
 <br/>
 <h3 align="center">Some statistics</h3>
-
+<!-- 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="90%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pat-on&layout=compact&theme=tokyonight")
@@ -52,7 +52,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=pat-on&count_private=true&show_icons=true&layout=compact&theme=tokyonight" /> 
   </a>
 </p>
-
+-->
 <br/>
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
