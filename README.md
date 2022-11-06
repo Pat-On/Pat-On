@@ -58,7 +58,8 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
      <img height="45%" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=paton&layout=compact&theme=tokyonight" />
   </a>
-    
+    <div class="badge-base LI-profile-badge" data-locale="pl_PL" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="patryknowak1990" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://uk.linkedin.com/in/patryknowak1990?trk=profile-badge">Patryk Nowak</a></div>
+              
 <!--   <a href="https://wakatime.com">
      <img width="45%" align="center" src="https://wakatime.com/share/@paton/e6c964e6-6eb5-436b-92da-97e39b671835.png" />
   </a> -->
