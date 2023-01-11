@@ -17,7 +17,7 @@
 <h2 align="center"> Currently: </h2>
 <br/>
 <div align="center">
-<img align="center" width="50%" src="https://synaptek.co.uk/app/uploads/2019/07/Synaptek-logo.jpg"> 
+<!-- <img align="center" width="50%" src="https://synaptek.co.uk/app/uploads/2019/07/Synaptek-logo.jpg">  -->
   </div>
 <br/>
 
