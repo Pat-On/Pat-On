@@ -57,11 +57,11 @@
 
 
 <div align="center">
-<!--
-  TODO: FIX VERCEL APP
+
+<!--   TODO: FIX VERCEL APP -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
      <img height="45%" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=paton&layout=compact&theme=tokyonight" />
-  </a> -->
+  </a>
 
               
 <a href="https://wakatime.com">
