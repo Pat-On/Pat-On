@@ -63,6 +63,7 @@
      <img height="45%" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=paton&layout=compact&theme=tokyonight" />
   </a>
 
+  ----
               
 <a href="https://wakatime.com">
   <img src="https://wakatime.com/share/@paton/0095eb44-6662-4a78-8161-06e325f52bf4.png" />
