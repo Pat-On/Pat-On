@@ -77,7 +77,7 @@
 <p align="center">
   <a href="https://patryk-nowak-portfolio.netlify.app/">🪐 Portfolio, with a solar system to fly through</a> ·
   <a href="https://www.linkedin.com/in/patryknowak1990/">💼 LinkedIn</a> ·
-  <a href="https://drive.google.com/file/d/1H_Ec-cBj9ushxDrxQiqIIOrtJrTwkFed/view?usp=sharing">📄 CV</a>
+  <a href="https://drive.google.com/u/0/uc?id=1H_Ec-cBj9ushxDrxQiqIIOrtJrTwkFed&export=download">📄 CV</a>
 </p>
 
 <p align="center"><i>...but it is only the beginning.</i></p>
